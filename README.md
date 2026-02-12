@@ -19,4 +19,8 @@
 <li>alimentacao boa</li>
 <li>deixar sobrancelha crescer 4/6 semanas se quiser sobrancelhas melhores</li>
 <li>descobrir se fica melhor com cabelo curto ou grande e escolher o que seja melhor (pergunte ao chatgpt,veja o formato do seu rosto e procure melhorar de acordo com sua genetica)</li>
+<li>hidratar os labios</li>
+<li>tome cha/cafe (ajuda para desinchar o rosto)</li>
+<li>diminua consumo de sal</li>
+<li>consuma mais potássio</li>
 </ul>
