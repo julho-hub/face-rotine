@@ -22,5 +22,7 @@
 <li>tome cha/cafe (ajuda para desinchar o rosto)</li>
 <li>diminua consumo de sal</li>
 <li>consuma mais potássio</li>
-<li><img src="https://i.looksmax.org/attachments/2021/12/2637880_23232323232323.png"></li>
+<li><img src="/img/2637880_23232323232323.png"></li>
+<li><img src="/img/2026-02-13_17-59.png"></li>
+<li><strong>offtopic=</strong><a href="https://looksmax.org/threads/how-i-achieved-a-chad-physique-naturally-my-detailed-exercise-routine.431952/" target="_blank">rotina de treino boa</a>
 </ul>
