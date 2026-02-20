@@ -10,6 +10,15 @@ body {
 }
 
 #sub-title {
-    color: #333;
+    text-align: center;
+}
+
+.voltar {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
     text-align: center;
 }
